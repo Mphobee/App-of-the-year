@@ -16,13 +16,6 @@ ol{
     list-style-type: upper-roman;
 }
 
-a{
-
-}
-a:hover{
-
-}
-
 #menu-bar a{
     font-family: helvetica, sans-serif;
     text-decoration:  none;
@@ -35,3 +28,7 @@ a:hover{
     color: #ffffff;
 }
 
+#gallery img{
+    width: 100%;
+    padding: 10px;
+}
